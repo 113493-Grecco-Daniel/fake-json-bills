@@ -1,22 +1,22 @@
 {
   "Bills": [
     {
-      "bill_id": 1,
+      "id": 1,
       "mount": 40000,
       "customer_id": 1
     },
     {
-      "bill_id": 2,
+      "id": 2,
       "mount": 5500,
       "customer_id": 1
     },
 	{
-      "bill_id": 3,
+      "id": 3,
       "mount": 25000,
       "customer_id": 2
     },
 	{
-      "bill_id": 4,
+      "id": 4,
       "mount": 12700,
       "customer_id": 3
     }
